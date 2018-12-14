@@ -1,5 +1,7 @@
 a = 10
-s = "Hello WOrld"
+s = "Hello World \n"
 
 print(a)
 print(s)
+
+print(a*s)
